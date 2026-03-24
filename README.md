@@ -11,6 +11,7 @@
 - **Hide sidebar distractions:** Eliminate suggested videos that can derail your focus.
 - **Toggle on/off:** Easily switch Focus Mode on or off from the popup.
 - **Offline and privacy-friendly:** Works locally in your browser, no tracking, no ads, no data collection.
+  
 
 ---
 
