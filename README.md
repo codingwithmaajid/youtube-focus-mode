@@ -1,6 +1,6 @@
 # YouTube Focus Mode
 
-**YouTube Focus Mode** is a simple Chrome extension designed to help you stay productive by removing distracting elements on YouTube, such as Shorts, homepage recommendations, and sidebar suggestions. Perfect for students, professionals, or anyone who wants to focus while watching YouTube.
+**YouTube Focus Mode** is a simple Chrome extension designed to help you stay productive by removing distracting elements on YouTube, such as Shorts, homepage recommendations, and sidebar suggestions. Perfect for students, professionals, or anyone who wants to increase thier focus while watching YouTube.
 
 ---
 
